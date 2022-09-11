@@ -2,7 +2,6 @@
 
 
 /**
-*
 * main - Prints various types
 *
 * main - Entry point
