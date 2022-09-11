@@ -4,11 +4,9 @@
 /**
 * main - Prints various types
 *
-* main - Entry point
-* Description: A C program that prints the size of various types
+* main - Entry point, A C program that prints the size of various types
 * on the computer it is compiled and run on.
-*
-* Return: return 0
+* Return:  0 if exited properly,
 */
 
 int main(void)
