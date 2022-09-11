@@ -2,11 +2,10 @@
 #include <unistd.h>
 
 /**
- * main - Prints a statement
- *
- * Description: A C program that prints a statement to the standard error.
- * Return: return 0
- */
+* main - Prints a statement
+* Description: A C program that prints a statement to the standard error.
+* Return: return 0
+*/
 
 int main(void)
 {
