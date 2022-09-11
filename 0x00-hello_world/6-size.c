@@ -5,8 +5,6 @@
 * main - Prints various types
 *
 * main - Entry point
-* description: a program that prints various types on the screen
-* return - 0
 * Description: A C program that prints the size of various types
 * on the computer it is compiled and run on.
 *
