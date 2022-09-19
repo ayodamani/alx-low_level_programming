@@ -1,0 +1,1 @@
+a project on how pointers and arrays and string are used in c 
